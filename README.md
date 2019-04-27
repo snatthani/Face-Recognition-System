@@ -1,7 +1,7 @@
 # Face-Recognition-System
 
 Problem Statement :- 
-Given an image, Recognize the face in it using Deep Convolutional Neural Networks
+Given an image, detected the face in it and recognize the face using Deep Convolutional Neural Networks.
 
 To solve this task following steps were followed.
 
